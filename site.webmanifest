@@ -1,0 +1,16 @@
+{
+    "name": "Angel Mae Sabordo - NISU | CICS",
+    "short_name": "Handicraft Bouquets",
+    "description": "Handicraft Bouquets by Angel Mae Sabordo, a student at NISU CICS.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "icons": [
+      {
+        "src": "/favicon.svg",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ]
+  }
